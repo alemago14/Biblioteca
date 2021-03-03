@@ -1,0 +1,3 @@
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/bin/Release/Bibliotecaa.exe
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/obj/x86/Release/Bibliotecaa.csproj.CoreCompileInputs.cache
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/obj/x86/Release/Bibliotecaa.exe

@@ -1,0 +1,6 @@
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/obj/x86/Debug/Bibliotecaa.csprojAssemblyReference.cache
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/obj/x86/Debug/Bibliotecaa.csproj.CoreCompileInputs.cache
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/bin/Debug/Bibliotecaa.exe
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/bin/Debug/Bibliotecaa.pdb
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/obj/x86/Debug/Bibliotecaa.exe
+/home/ale/Projects/Bibliotecaa/Bibliotecaa/obj/x86/Debug/Bibliotecaa.pdb
