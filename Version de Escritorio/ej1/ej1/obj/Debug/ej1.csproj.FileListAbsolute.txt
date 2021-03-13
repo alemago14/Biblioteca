@@ -1,0 +1,14 @@
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\bin\Debug\ej1.exe.config
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\bin\Debug\ej1.exe
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\bin\Debug\ej1.pdb
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.csprojResolveAssemblyReference.cache
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.exe
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.pdb
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.MainForm.resources
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.csproj.GenerateResource.Cache
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.Cuadro1.resources
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.Cuadro2.resources
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.Cuadro3.resources
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.Cuadro4.resources
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.Cuadro5.resources
+C:\Users\Maugouber\Documents\SharpDevelop Projects\ej1\ej1\obj\Debug\ej1.Cuadro6.resources
